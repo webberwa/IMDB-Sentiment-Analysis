@@ -5,6 +5,7 @@ dataset_path='/Users/Webber/Code/Clones/sentiment-analysis-using-python/aclImdb/
 import numpy
 import pickle as pkl
 import nltk
+# Install library
 nltk.download('stopwords')
 
 from collections import OrderedDict
