@@ -14,13 +14,3 @@ Then run `svm.py` to see the results.
 ## Naive
 
 Same as above, but repeat for naive.
-
-## screenshots
-
-![L1_1](https://github.com/changhuixu/sentiment-analysis-using-python/blob/master/naive/naive-demo-screenshot.png "Naive Bayes code")
-
-![L1_2](https://github.com/changhuixu/sentiment-analysis-using-python/blob/master/svm/svm-demo-screenshot.png "SVM code")
-
-### End
-
-last modified 04/16/2016
